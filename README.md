@@ -1,2 +1,2 @@
-# kotonje.githu.io
+# kotonje.github.io
 sec. school website
