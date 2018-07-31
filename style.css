@@ -186,7 +186,7 @@ input#search2 {
 .head-wl h1 a span{color:#000;}
 /*-- banner--*/ 
 .navbar {margin-bottom:0em;}
-.banner-w3{background: url(../images/b1.jpg)no-repeat center;
+.banner-w3{background: url(.b1.jpg)no-repeat center;
     background-size: cover;
     min-height: 800px;
 	
